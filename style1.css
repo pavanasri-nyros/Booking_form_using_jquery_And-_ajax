@@ -1,0 +1,37 @@
+body {
+  -webkit-font-smoothing: antialiased;
+  background: url("images/bg.jpg") center top;
+  }
+  
+  #main{
+  position:absolute;
+  top: -15vh;
+  padding:30px;
+  left: 27%;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px 0px #000;
+  margin-top: 200px;
+  width: 600px;
+  margin-left: 30px;
+  margin-bottom: 30px;
+  }
+  
+  h1{
+  color: white;
+  text-align: center;
+  margin-top: 40px;
+  }
+  
+  p{
+  color: white;
+  text-align: center;
+  }
+  
+  #vacation input[type=submit] {
+  padding-right: 11px;
+  }
+  
+  label{
+  color: white;
+  }
+  
